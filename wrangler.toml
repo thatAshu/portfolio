@@ -71,7 +71,7 @@ pages_build_output_dir = ".vercel/output/static"
 ######## PREVIEW environment config ########
 
 # [env.preview.vars]
- CLOUDFLARE_API_TOKEN = "F4IW_epbiOgLnToRXvravv8weXcVk_ix65OUa9ii"
+# API_KEY = "xyz789"
 
 # [[env.preview.kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
@@ -80,7 +80,7 @@ pages_build_output_dir = ".vercel/output/static"
 ######## PRODUCTION environment config ########
 
 # [env.production.vars]
- CLOUDFLARE_API_TOKEN = "F4IW_epbiOgLnToRXvravv8weXcVk_ix65OUa9ii"
+# API_KEY = "abc123"
 
 # [[env.production.kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
